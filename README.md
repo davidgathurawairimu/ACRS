@@ -1,4 +1,4 @@
-# ACRS
+# ACRS (Advanced Car Rental Management   System)
 Welcome to the official repository for our advanced car rental system, a comprehensive web application designed to modernize and streamline the vehicle rental process. This project showcases a robust, scalable, and user-friendly platform that connects customers with a diverse fleet of vehicles, offering a seamless and intuitive booking experience.
 Our system goes beyond basic rental functionalities, incorporating a suite of features for both customers and administrators. We’ve built this application with a focus on efficiency, security, and scalability, ensuring it can handle high volumes of users and transactions while maintaining peak performance.
 
